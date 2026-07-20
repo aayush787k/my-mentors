@@ -179,8 +179,6 @@
   color: var(--primary-foreground);
   box-shadow: var(--shadow-elegant);
   transition: transform 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease;
-}
-@utility btn-gradient {
   &:hover {
     transform: translateY(-2px);
     filter: brightness(1.08);
