@@ -318,7 +318,7 @@ function Hero() {
         <div className="relative animate-fade-up" style={{ animationDelay: "0.15s" }}>
           <div className="relative overflow-hidden rounded-[2rem] shadow-[var(--shadow-elegant)]" style={{ background: "var(--gradient-primary)" }}>
             <img
-              src={VIVEK}
+              src= "/vivek-singh.png"
               alt="Vivek Singh — Founder, MYMENTORS"
               className="h-[560px] w-full object-cover object-top"
               loading="eager"
