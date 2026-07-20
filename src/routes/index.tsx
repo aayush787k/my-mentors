@@ -186,7 +186,7 @@ function Nav() {
             <GraduationCap className="h-5 w-5" />
           </div>
           <div className="leading-tight">
-            <div className="text-base font-semibold tracking-tight">My Mentors Edu</div>
+            <div className="text-base font-semibold tracking-tight">MYMENTORS</div>
             <div className="text-[10px] uppercase tracking-[0.2em] text-muted-foreground">Career · Education</div>
           </div>
         </a>
@@ -269,7 +269,7 @@ function Hero() {
             Unlock your <span className="gradient-text">true potential</span> with the right mentor.
           </h1>
           <p className="mt-6 max-w-xl text-lg leading-relaxed text-muted-foreground">
-            At My Mentors Edu we guide students through career discovery, competitive exams and admissions with a personalised roadmap designed by top mentors.
+            At MYMENTORS we guide students through career discovery, competitive exams and admissions with a personalised roadmap designed by top mentors.
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <a href="#contact" className="inline-flex items-center gap-2 rounded-full btn-gradient px-7 py-3.5 text-sm font-semibold">
@@ -387,7 +387,7 @@ function About() {
             align="left"
             eyebrow="About the Institute"
             title={<>A modern academy for <span className="gradient-text">tomorrow's leaders</span>.</>}
-            sub="For over 15 years, My Mentors Edu has helped thousands of students chart their careers with clarity. We combine deep subject expertise, one-on-one mentorship and world-class study material to build futures — not just clear exams."
+            sub="For over 15 years, MYMENTORS has helped thousands of students chart their careers with clarity. We combine deep subject expertise, one-on-one mentorship and world-class study material to build futures — not just clear exams."
           />
           <ul className="mt-8 grid gap-4 sm:grid-cols-2">
             {[
@@ -675,7 +675,7 @@ function Faculty() {
 /* -------------------- FAQ -------------------- */
 
 const FAQS = [
-  { q: "Who can join My Mentors Edu?", a: "Students from Class 8 to postgraduates. We tailor programs for career discovery, competitive exams and study abroad." },
+  { q: "Who can join MYMENTORS?", a: "Students from Class 8 to postgraduates. We tailor programs for career discovery, competitive exams and study abroad." },
   { q: "Is the free counselling really free?", a: "Yes. Your first 45-minute counselling session with a certified mentor is completely free — no card required, no obligations." },
   { q: "Do you offer online, offline or hybrid classes?", a: "All three. Choose the mode that best fits your schedule; hybrid students can switch anytime." },
   { q: "How are mentors selected?", a: "Every mentor clears a 5-step selection process including subject mastery, demo classes and student feedback trials." },
@@ -831,7 +831,7 @@ function Footer() {
                 <GraduationCap className="h-5 w-5" />
               </div>
               <div className="leading-tight">
-                <div className="text-base font-semibold tracking-tight">My Mentors Edu</div>
+                <div className="text-base font-semibold tracking-tight">MYMENTORS</div>
                 <div className="text-[10px] uppercase tracking-[0.2em] text-muted-foreground">Career · Education</div>
               </div>
             </a>
@@ -878,7 +878,7 @@ function Footer() {
         </div>
 
         <div className="mt-12 flex flex-col items-center justify-between gap-3 border-t border-border/70 pt-6 text-xs text-muted-foreground sm:flex-row">
-          <div>© {new Date().getFullYear()} My Mentors Edu. All rights reserved.</div>
+          <div>© {new Date().getFullYear()} MYMENTORS. All rights reserved.</div>
           <div className="flex items-center gap-5">
             <a href="#" className="hover:text-primary">Privacy</a>
             <a href="#" className="hover:text-primary">Terms</a>
