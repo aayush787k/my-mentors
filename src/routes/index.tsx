@@ -581,7 +581,7 @@ const MENTORS = [
   {
     name: "Vivek Singh",
     role: "Founder · Mathematics Expert",
-    img: hero image.png
+    img: "/hero image.png"
     bullets: [
       "Founder — MYMENTORS Tutorial",
       "Board & Competitive Maths Specialist",
